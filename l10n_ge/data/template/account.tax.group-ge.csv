@@ -1,0 +1,4 @@
+"id","name","country_id","name@ka","tax_payable_account_id","tax_receivable_account_id","advance_tax_payment_account_id"
+"tax_group_vat_18","VAT 18%","base.ge","დღგ 18%","ge_3330","ge_3340",ge_3399
+"tax_group_vat_0","VAT 0%","base.ge","დღგ 0%","","",""
+tax_group_non_taxable,Non-Taxable,base.ge,დაუბეგრავი,,,

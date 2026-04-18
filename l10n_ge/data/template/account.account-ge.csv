@@ -1,0 +1,169 @@
+id,name,code,account_type,reconcile,name@ka
+ge_1120,Cash on hand foreign currency,1120,asset_cash,False,ნაღდი ფული უცხოურ ვალუტაში
+ge_1220,Bank - foreign currency,1220,asset_cash,False,უცხოური ვალუტა რეზიდენტ ბანკებში
+ge_1230,International Bank - foreign currency,1230,asset_cash,False,უცხოური ვალუტა არარეზიდენტ ბანკებში
+ge_1290,Other bank accounts,1290,asset_cash,False,ფული სხვა საბანკო ანგარიშებზე
+ge_1310,Marketable securities,1310,asset_current,False,მოკლევადიანი ინვესტიციები საწარმოს ფასიან ქაღალდებში
+ge_1320,Governments securities,1320,asset_current,False,მოკლევადიანი ინვესტიციები სახელმწ. ფასიან ქაღალდებში
+ge_1330,Current portion of long-term investments,1330,asset_current,False,გრძელვადიანი ინვესტიციების მიმდინარე ნაწილი
+ge_1390,Other Short Therm Investments,1390,asset_current,False,სხვა მოკლევადიანი ინვესტიციები
+ge_1410,Accounts receivable - trade,1410,asset_receivable,True,მოთხოვნები მიწოდებიდან და მომსახურებიდან
+ge_1415,Allowance for doubtful debts,1415,asset_receivable,True,გამოქვითული საეჭვო მოთხოვნები
+ge_1420,Accounts receivable from subsidiaries,1420,asset_receivable,True,მოთხოვნები მეკავშირე საწარმოების მიმართ
+ge_1430,Accounts receivable - employees,1430,asset_receivable,True,მოთხოვნები საწარმოს პერსონალის მიმართ
+ge_1440,Accounts receivable - officers and directors,1440,asset_receivable,True,მოთხოვნები ხელმძღვანელებისა და სამეთვალყურეო ორგანოების წევრების მიმართ
+ge_1450,Accounts receivable - partners on the loans issued,1450,asset_receivable,True,მოთხოვნები პარტნიორებზე გაცემული სესხებით
+ge_1460,Payments receivable from founders for subscribed share,1460,asset_receivable,True,კაპიტალის შევსებაზე პარტნიორების გრძელვადიანი დავალიანებების მიმდინარე ნაწილი
+ge_1470,Current portion of long-term receivables ,1470,asset_receivable,True,გრძელვადიანი მოთხოვნების მიმდინარე ნაწილი
+ge_1480,Prepayments to suppliers,1480,asset_receivable,True,მომწოდებლებზე გადახდილი ავანსები
+ge_1490,Other receivables,1490,asset_receivable,True,სხვა მოკლევადიანი მოთხოვნები
+ge_1510,Notes receivable due within one year,1510,liability_current,False,მიღებული მოკლევადიანი თამასუქები
+ge_1520,Current portion of long-term notes receivable,1520,liability_current,False,მიღებული გრძელვადიანი თამასუქების მიმდინარე ნაწილი
+ge_1610,Merchandise inventory,1610,asset_current,False,საქონელი
+ge_1620,Raw materials inventory,1620,asset_current,False,ნედლეული და მასალები
+ge_1630,Work-in process inventory,1630,asset_current,False,დაუმთავრებელი წარმოება
+ge_1640,Finished goods inventory,1640,asset_current,False,მზა პროდუქცია
+ge_1690,Other inventory,1690,asset_current,False,სხვა საწარმოო მარაგი
+ge_1710,Prepaid services,1710,asset_prepayments,True,წინასწარ ანაზღაურებული მომსახურება
+ge_1720,Prepaid rent,1720,asset_prepayments,True,წინასწარ გადახდილი საიჯარო ქირა
+ge_1790,Prepaid other,1790,asset_prepayments,True,სხვა წინასწარ გადახდილი ხარჯები
+ge_1810,Accrued dividends receivable,1810,asset_receivable,True,მისაღები დივიდენდები
+ge_1820,Accrued interest receivable,1820,asset_receivable,True,მისაღები პროცენტები
+ge_1890,Other accrued receivables,1890,asset_receivable,True,სხვა დარიცხული მოთხოვნები
+ge_1910,Current assets - other,1910,asset_current,False,სხვა მიმდინარე აქტივები
+ge_2110,Land,2110,asset_fixed,False,მიწის ნაკვეთები
+ge_2120,Construction in progress,2120,asset_fixed,False,დაუმთავრებელი მშენებლობები
+ge_2130,Buildings and improvements,2130,asset_fixed,False,შენობები
+ge_2140,Constructions,2140,asset_fixed,False,ნაგებობები
+ge_2150,Machinery and equipment,2150,asset_fixed,False,მანქანა-დანადგარები
+ge_2160,Office equipment,2160,asset_fixed,False,ოფისის აღჭურვილობა
+ge_2170,Furniture and fixtures,2170,asset_fixed,False,ავეჯი და სხვა ინვენტარი
+ge_2180,Vehicles,2180,asset_fixed,False,სატრანსპორტო საშუალებები
+ge_2190,Leasehold improvements,2190,asset_fixed,False,იჯარით აღებული ქონების კეთილმოწყობა
+ge_2230,Accumulated depreciation - Buildings and improvements,2230,asset_fixed,False,შენობების ცვეთა
+ge_2240,Accumulated depreciation - Constructions,2240,asset_fixed,False,ნაგებობების ცვეთა
+ge_2250,Accumulated depreciation - Machinery and equipment,2250,asset_fixed,False,მანქანა-დანადგარების ცვეთა
+ge_2260,Accumulated depreciation - Office equipment,2260,asset_fixed,False,ოფისის აღჭურვილობის ცვეთა
+ge_2270,Accumulated depreciation - Furniture and fixtures,2270,asset_fixed,False,ავეჯისა და სხვა ინვენტარის ცვეთა
+ge_2280,Accumulated depreciation - Vehicles,2280,asset_fixed,False,სატრანსპორტო საშუალებების ცვეთა
+ge_2290,Accumulated depreciation - Leasehold improvements,2290,asset_fixed,False,იჯარით აღებული ქონების კეთილმოწყობის ცვეთა
+ge_2310,Notes receivable,2310,asset_receivable,True,მიღებული გრძელვადიანი თამასუქები
+ge_2320,Finance lease receivable,2320,asset_receivable,True,ფინანსურ იჯარასთან დაკავშირებული მოთხოვნები
+ge_2330,Payments receivable for subscribed shares,2330,asset_receivable,True,მოთხოვნები საწესდებო კაპიტალის შევსებაზე
+ge_2340,Deferred tax assets,2340,asset_receivable,True,გადავადებული საგადასახადო აქტივები
+ge_2390,Other long-term receivables,2390,asset_receivable,True,სხვა გრძელვადიანი მოთხოვნები
+ge_2410,Long-term Marketable securities,2410,asset_fixed,False,გრძელვადიანი ინვესტიციები საწარმოთა ფასიან ქაღალდებში
+ge_2420,Long-term Governments securities,2420,asset_fixed,False,გრძელვადიანი ინვესტიციები სახელმწ. ფასიან ქაღალდებში
+ge_2430,Participant in order companies,2430,asset_fixed,False,მონაწილეობა სხვა საზოგადოებაში
+ge_2490,Other long-term investments,2490,asset_fixed,False,სხვა გრძელვადიანი ინვესტიციები
+ge_2510,Licenses,2510,asset_fixed,False,ლიცენზიები
+ge_2520,Concession,2520,asset_fixed,False,კონცესიები
+ge_2530,Patents,2530,asset_fixed,False,პატენტები
+ge_2540,Goodwill,2540,asset_fixed,False,გუდვილი
+ge_2590,Other intangible assets,2590,asset_fixed,False,სხვა არამატერიალური აქტივები
+ge_2610,Accumulated amortization - License,2610,asset_fixed,False,ლიცენზიების ამორტიზაცია
+ge_2620,Accumulated amortization - Concession,2620,asset_fixed,False,კონცესიების ამორტიზაცია
+ge_2630,Accumulated amortization - Patents,2630,asset_fixed,False,პატენტების ამორტიზაცია
+ge_2640,Accumulated amortization - Goodwill,2640,asset_fixed,False,გუდვილის ამორტიზაცია
+ge_2690,Accumulated amortization - Other intangible assets,2690,asset_fixed,False,სხვა არამატერიალური აქტივების ამორტიზაცია
+ge_3110,Account Payable,3110,liability_payable,True,მოწოდებიდან და მომსახურურებიდან წარმოქმნილი ვალდებულებები
+ge_3120,Advances received,3120,liability_current,True,მიღებული ავანსები
+ge_3130,Wages and salaries payable,3130,liability_payable,True,გადასახდელი ხელფასი
+ge_3140,Royalty,3140,liability_payable,True,როიალტი
+ge_3150,"Liability for fees, commissions",3150,liability_payable,True,საკომისიო გადასახდელები
+ge_3160,Non-wage payables to company personal,3160,liability_payable,True,ვალდებულებები საწარმოს პერსონალის წინაშე
+ge_3170,Payables to subsidiaries,3170,liability_payable,True,ვალდებულებები მეკავშირე საწარმოების წინაშე
+ge_3190,Other short-term payables,3190,liability_payable,True,სხვა მოკლევადიანი ვალდებულებები
+ge_3210,Short-term loans,3210,liability_payable,True,მოკლევადიანი სესხები
+ge_3220,Shareholders (partners) loans,3220,liability_payable,True,სესხები პარტნიორებისაგან
+ge_3230,Current portion of long-term debt,3230,liability_payable,True,გრძელვადიანი სესხების მიმდინარე ნაწილი
+ge_3310,Profit tax payable,3310,liability_payable,True,გადასახდელი მოგების გადასახადი
+ge_3320,Payroll taxes payable,3320,liability_payable,True,გადასახდელი საშემოსავლო გადასახადი
+ge_3330,Value Added Tax (VAT) payable,3330,liability_current,False,გადასახდელი დღგ
+ge_3340,Value Added Tax (VAT) recoverable,3340,asset_current,False,გადახდილი დღგ
+ge_3350,Excise payable,3350,liability_payable,True,გადასახდელი აქციზი
+ge_3360,Excise paid,3360,liability_payable,True,გადახდილი აქციზი
+ge_3370,Social insurance payable,3370,liability_payable,True,სოციალური გადასახადი
+ge_3380,Property tax,3380,liability_current,True,ქონების გადასახადი
+ge_3390,Other tax payables,3390,liability_current,True,სხვა საგადასახადო ვალდებულებები
+ge_3399,Accumulated Tax to Pay,3399,liability_current,True,ერთიანი საგადასახადო ვალდებულება
+ge_3410,Accrued interest payable,3410,liability_current,True,გადასახდელი პროცენტები
+ge_3420,Dividends payable,3420,liability_current,True,გადასახდელი დივიდენდები
+ge_3430,Warranties payable,3430,liability_current,True,ვალდებულება საგარანტიო მომსახურებაზე
+ge_3490,Other accrued expenses,3490,liability_current,True,სხვა დარიცხული ვალდებულებები
+ge_4110,Bonds payable,4110,liability_current,False,გასანაღდებელი ობლიგაციები
+ge_4120,Notes payable,4120,liability_current,False,გასანაღდებელი თამასუქები
+ge_4130,Obligations under finance leases,4130,liability_current,False,ვალდებულებები ფინანსურ იჯარაზე
+ge_4140,Long-term loans,4140,liability_current,False,გრძელვადიანი სესხები
+ge_4190,Other long-term debt,4190,liability_current,False,სხვა გრძელვადიანი სასესხო ვალდებულებები
+ge_4210,Deferred profit tax,4210,liability_current,False,გადავადებული მოგების გადასახადი
+ge_4220,Other long-term liabilities,4220,liability_current,False,სხვა გრძელვადიანი ვალდებულებები
+ge_4310,Provisions for the retired benefits,4310,liability_current,False,საპენსიო უზრუნველყოფის ანარიცხები
+ge_4320,Other provisions,4320,liability_current,False,სხვა ანარიცხები
+ge_4410,Deferred income,4410,liability_current,False,გადავადებული შემოსავალი
+ge_5110,Common stock,5110,equity,False,ჩვეულებრივი აქციები
+ge_5120,Preferred stock,5120,equity,False,პრივილეგირებული აქციები
+ge_5130,Treasury stock,5130,equity,False,გამოსყიდული საკუთარი აქციები
+ge_5140,Additional Paid in Capital,5140,equity,False,საემისიო კაპიტალი
+ge_5150,Subscription to stock (shares),5150,equity,False,საწესდებო კაპიტალი შპს-ში
+ge_5210,Equity Capital,5210,equity,False,პარტნიორთა კაპიტალი
+ge_5310,Undistributed retained earnings,5310,equity_unaffected,False,გაუნაწილებელი მოგება
+ge_5320,Previous periods accumulated losses,5320,equity_unaffected,False,დაუფარავი ზარალი
+ge_5330,Current period income and Losses,5330,equity_unaffected,False,საანგარიშგებო პერიოდის მოგება-ზარალი
+ge_5410,Restricted appropriations,5410,equity,False,სარეზერვო კაპიტალი
+ge_5420,Asset revaluation adjustments,5420,equity,False,ძირითადი საშუალებების გადაფასების რეზერვი
+ge_5430,Long-term investments revaluation adjust ,5430,equity,False,ინვესტიციების გადაფასების რეზერვი
+ge_5490,Other reserves and financing,5490,equity,False,სხვა რეზერვები და დაფინანსება
+ge_6110,Income from sales,6110,income,False,შემოსავალი რეალიზაციიდან
+ge_6120,Returns / Discounts,6120,expense,False,გაყიდული საქონლის დაბრუნება / ფასდათმობა
+ge_6130,Bad debt income,6130,income,False,შემოსავალი საეჭვო მოთხოვნებიდან
+ge_6190,Other operating income,6190,income,False,სხვა საოპერაციო შემოსავლები
+ge_7110,Materials purchased,7110,expense_direct_cost,False,ძირითადი მასალების დანახარჯები/შეძენა
+ge_7120,Labor - Direct,7120,expense_direct_cost,False,პირდაპირი ხელფასი
+ge_7130,Direct labor taxes and social insurance,7130,expense_direct_cost,False,სოციალური დანარიცხები პირდაპირ ხელფასზე
+ge_7140,Indirect materials purchased,7140,expense_direct_cost,False,დამხმარე მასალების დანახარჯები /შეძენა
+ge_7150,Labor - Indirect,7150,expense_direct_cost,False,არაპირდაპირი ხელფასი
+ge_7160,Indirect labor taxes and benefits expense ,7160,expense_direct_cost,False,სოციალური დანარიცხები არაპირდაპირ ხელფასზე
+ge_7170,Depreciation/amortization,7170,expense_direct_cost,False,ცვეთა და ამორტიზაცია
+ge_7180,Repair and maintenance,7180,expense_direct_cost,False,რემონტის დანახარჯები
+ge_7185,Inventory adjustment,7185,expense_direct_cost,False,სასაქონლო-მატერიალური მარაგების კორექტირება
+ge_7190,Other operating expenses,7190,expense_direct_cost,False,სხვა საოპერაციო ხარჯები
+ge_7210,Acquisition / Purchase,7210,expense_direct_cost,False,გაყიდული/ შეძენილი საქონელი
+ge_7220,Returns / Discounts,7220,expense_direct_cost,False,შეძენილი საქონლის უკანდაბრუნება და ფასდათმობა
+ge_7290,Inventory adjustments,7290,expense_direct_cost,False,სასაქონლო-მატერიალური მარაგების კორექტირება
+ge_7310,Advertisement and sales promotion expense,7310,expense_direct_cost,False,რეკლამის ხარჯები
+ge_7320,"Salaries,wages and commissions expenses",7320,expense_direct_cost,False,შრომის ანაზღაურება და საკომისიო გასამრჯელო
+ge_7330,Sales salary taxes and benefits expenses,7330,expense_direct_cost,False,შრომის ანაზღაურებაზე დანარიცხი
+ge_7340,Transportation and storage expenses,7340,expense_direct_cost,False,ტრანსპორტირებისა და შენახვის ხარჯები
+ge_7390,Other selling expenses,7390,expense_direct_cost,False,სხვა მიწოდების ხარჯები
+ge_7410,Salary and wages expenses,7410,expense,False,შრომის ანაზღაურება
+ge_7415,Social insurance expenses,7415,expense,False,სოციალური დანარიცხები
+ge_7220,Operating lease,7220,expense,False,საიჯარო ქირა
+ge_7425,Office supplies expenses,7425,expense,False,საოფისე ინვენტარი
+ge_7430,Communications expenses,7430,expense,False,კომუნიკაციის ხარჯები
+ge_7435,Insurance,7435,expense,False,დაზღვევა
+ge_7440,Repairs,7440,expense,False,რემონტი
+ge_7445,Computer's expenses,7445,expense,False,კომპიუტერის ხარჯები
+ge_7450,Consulting fees,7450,expense,False,საკონსულტაციო ხარჯები
+ge_7455,Depreciation and amortization,7455,expense,False,ცვეთა და ამორტიზაცია
+ge_7460,Bad debt expense,7460,expense,False,საეჭვო მოთხოვნებთან დაკავშირებული ხარჯები
+ge_7470,Other tax expenses,7470,expense,False,სხვა საგადასახადო ხარჯები
+ge_7480,Warranty expenses,7480,expense,False,საგარანტიო ხარჯები
+ge_7490,Other general expenses,7490,expense,False,სხვა საერთო ხარჯები
+ge_8110,Interest income,8110,income_other,False,საპროცენტო შემოსავლები
+ge_8120,Income from dividends,8120,income_other,False,დივიდენდები
+ge_8130,Gain from non operating activities,8130,income_other,False,არასაოპერაციო მოგება
+ge_8190,Other non-operating income,8190,income_other,False,სხვა არასაოპერაციო შემოსავლები
+ge_8210,Interest expense,8210,expense_other,False,საპროცენტო ხარჯები
+ge_8220,Non-operating loss,8220,expense_other,False,არასაოპერაციო ზარალი
+ge_8290,Other non operating Losses,8290,expense_other,False,სხვა არასაოპერაციო ხარჯები
+ge_9110,Extraordinary gains,9110,income_other,False,განსაკუთრებული შემოსავლები
+ge_9120,Extraordinary losses,9120,expense_other,False,განსაკუთრებული ხარჯები
+ge_9210,Profit tax,9210,liability_payable,True,მოგების გადასახადი
+ge_1411,Accounts receivable - POS,1411,asset_receivable,True,მოთხოვნები მიწოდებიდან და მომსახურებიდან - სავაჭრო ობიექტი
+ge_1920,Deferred Expenses,1920,asset_current,False,გადავადებული ხარჯები
+ge_1110,Cash On Hand National Currency,1110,asset_cash,False,ნაღდი ფული სალაროში
+ge_8280,Loss From Exchange Rate Difference,8280,expense_other,False,ზარალი კურსთაშორის სხვაობიდან
+ge_8180,Income From Exchange Rate Difference,8180,income_other,False,შემოსავალი კურსთაშორის სხვაობიდან
+ge_7485,Bank Fees,7485,expense,False,საბანკო ხარჯი
+ge_3195,Pension Fund Contribution,3195,liability_current,True,საპენსიო შენატანი

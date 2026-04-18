@@ -1,0 +1,5 @@
+"id","name","sequence","auto_apply","vat_required","country_id","name@ka"
+fiscal_position_ge_national,Domestic,10,True,1,base.ge,ადგილობრივი
+fiscal_position_ge_exempt,Exempt taxpayer,20,True,,base.ge,დგგ-ს არგადამხდელი
+fiscal_position_ge_int,Foreign Trade,40,True,,,საერთაშორისო
+fiscal_position_ge_diplomatic,Sales To Diplomats,30,True,,base.ge,დიპლომატიური

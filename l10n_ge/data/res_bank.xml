@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<odoo>
+    <data noupdate="1">
+
+        <record model="res.bank" id="bank_tbc">
+            <field name="name">TBC Bank</field>
+			<field name="name@ge">სს თიბისი ბანკი</field>
+            <field name="bic">TBCBGE22</field>
+        </record>
+        <record model="res.bank" id="bank_bog">
+            <field name="name">Bank of Georgia</field>
+			<field name="name@ge">სს საქართველოს ბანკი</field>
+            <field name="bic">BAGAGE22</field>
+        </record>
+        <record model="res.bank" id="bank_lbr">
+            <field name="name">Liberty Bank</field>
+			<field name="name@ge">სს ლიბერთი ბანკი</field>
+            <field name="bic">LBRTGE22</field>
+        </record>
+		<record model="res.bank" id="bank_pcb">
+            <field name="name">ProCredit Bank</field>
+			<field name="name@ge">სს პროკრედიტ ბანკი</field>
+            <field name="bic">MIBGGE22</field>
+        </record>
+        <record model="res.bank" id="bank_trs">
+            <field name="name">State Treasury</field>
+			<field name="name@ge">სახელმწიფო ხაზინა</field>
+            <field name="bic">TRESGE22</field>
+        </record>
+        <record model="res.bank" id="bank_bsb">
+            <field name="name">Basis Bank</field>
+			<field name="name@ge">სს ბაზისბანკი</field>
+            <field name="bic">CBASGE22</field>
+        </record>
+    </data>
+</odoo>

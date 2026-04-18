@@ -1,0 +1,38 @@
+id,code_prefix_start,code_prefix_end,name,name@ka
+ge_group_1100,1100,1199,Cash On Hand,ნაღდი ფული სალაროში
+ge_group_1200,1200,1299,Cash In Bank,ფული საბანკო ანგარიშებზე
+ge_group_1300,1300,1399,Short-term investments,მოკლევადიანი ინვესტიციები
+ge_group_1400,1400,1499,Receivables,მოკლევადიანი მოთხოვნები
+ge_group_1500,1500,1599,Notes Receivable,მოკლევადიანი სათამასუქო მოთხოვნები
+ge_group_1600,1600,1699,Inventory,სასაქონლო-მატერიალური მარაგი
+ge_group_1700,1700,1799,Prepaid expenses,წინასწარ გაწეული ხარჯები
+ge_group_1800,1800,1899,Accrued receivables,დარიცხული მოთხოვნები
+ge_group_1900,1900,1999,Other current assets,სხვა მიმდინარე აქტივები
+ge_group_2100,2100,2199,Fixed assets,ძირითადი საშუალებები
+ge_group_2200,2200,2299,Accumulated depreciation - Fixed assets,ძირითადი საშუალების ცვეთა
+ge_group_2300,2300,2399,Long-term receivables,გრძელვადიანი მოთხოვნები
+ge_group_2400,2400,2499,Long-term investments,გრძელვადიანი ინვესტიციები
+ge_group_2500,2500,2599,Intangible assets,არამატერიალური აქტივები
+ge_group_2600,2600,2699,Accumulated depreciation - Intangible assets,არამატერიალური აქტივების ამორტიზაცია
+ge_group_3100,3100,3199,Payables,მოკლევადიანი ვალდებულებები
+ge_group_3200,3200,3299,Short-term Debt,მოკლევადიანი სესხები
+ge_group_3300,3300,3399,Taxes Payable,საგადასახადო ვალდებულებები
+ge_group_3400,3400,3499,Accrued Liabilities,დარიცხული ვალდებულებები
+ge_group_4100,4100,4199,Long-term Debt,გრძელვადიანი სასესხო ვალდებულებები
+ge_group_4200,4200,4299,Deferred taxes and other Long-term liabilities,გადავადებული გადასახ და სხვა გრძელვ ვალდ
+ge_group_4300,4300,4399,Provisions,ანარიცხები
+ge_group_4400,4400,4499,Deferred income,გადავადებული შემოსავალი
+ge_group_5100,5100,5199,Capital Stock,საწესდებო კაპიტალი
+ge_group_5200,5200,5299,Owners Equity for non-ltd,პარტნნიორთა კაპიტალი - შპას
+ge_group_5300,5300,5399,Profit - Loss,მოგება - ზარალი
+ge_group_5400,5400,5499,Reserves and Financing,რეზერვები და დაფინანსება
+ge_group_6100,6100,6199,Operating Income,საოპერაციო შემოსავლები
+ge_group_7100,7100,7199,Cost of Goods Sold - Manufacturing,რეალიზებული პროდუქტის თვითღირებულება (წარმოება)
+ge_group_7200,7200,7299,Cost of Goods Sold - Merchandising,რეალიზებული პროდუქტის თვითღირებულება (სავაჭრო)
+ge_group_7300,7300,7399,Selling expenses,მიწოდების ხარჯები
+ge_group_7400,7400,7499,General and Administrative Expenses,საერთო და ადმინისტრაციული ხარჯები
+ge_group_8100,8100,8199,Non-operation Income,არასაოპერაციო შემოსავლები
+ge_group_8200,8200,8299,Non-operation Expenses / Losses,არასაოპერაციო ხარჯები
+ge_group_9100,9100,9199,Extraordinary Gains or Losses,განსაკუთრებული შემოსავლები და ხარჯები
+ge_group_9200,9200,9299,Other Expenses,სხვა ხარჯები
+ge_group_1210,1210.0000,1210.9999,Cash In Bank National Currency,ფული საბანკო ანგარიშებზე ეროვნულ ვალუტაში
